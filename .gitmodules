@@ -1,0 +1,3 @@
+[submodule "JSLite"]
+	path = JSLite
+	url = git@github.com:Avaq/JSLite.git
